@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mapbox.mapboxsdk:mapbox-android-sdk-gl-core:5.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/97dead0cab92118da699085427f81333/transformed/jetified-mapbox-android-sdk-gl-core-5.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/47e3bb41660480461594e622db2687cd/transformed/jetified-mapbox-android-sdk-gl-core-5.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/9b87954577641f69df611800705d30eb/transformed/jetified-mapbox-android-sdk-gl-core-5.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/42df39346a76fdeb89b69ce12262f402/transformed/jetified-mapbox-android-sdk-gl-core-5.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4405156a0ff0bd0aca31b04a6d336ed7/transformed/jetified-mapbox-android-sdk-gl-core-5.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/175d1cc0717b99d59278f29ac1d411bf/transformed/jetified-mapbox-android-sdk-gl-core-5.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/af068804d172ed1386dd2e9219836222/transformed/jetified-mapbox-android-sdk-gl-core-5.0.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/056544aa7b944757003e4815b00dc687/transformed/jetified-mapbox-android-sdk-gl-core-5.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/056544aa7b944757003e4815b00dc687/transformed/jetified-mapbox-android-sdk-gl-core-5.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mapbox.mapboxsdk/mapbox-android-sdk-gl-core/5.0.0/af87bb588abb621d5e06a2fe3dbbd4128fe8da9c/mapbox-android-sdk-gl-core-5.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mapbox.mapboxsdk/mapbox-android-sdk-gl-core/5.0.0/af87bb588abb621d5e06a2fe3dbbd4128fe8da9c/mapbox-android-sdk-gl-core-5.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

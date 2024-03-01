@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mapbox.mapboxsdk:mapbox-sdk-services:5.9.0-alpha.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mapbox.mapboxsdk/mapbox-sdk-services/5.9.0-alpha.1/883fe57fc04e33c2b1b96c039e638c1bb4d061e/mapbox-sdk-services-5.9.0-alpha.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mapbox.mapboxsdk/mapbox-sdk-services/5.9.0-alpha.1/3dafb9716b3782c95f32b68f71906ff61d810c70/mapbox-sdk-services-5.9.0-alpha.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mapbox.mapboxsdk/mapbox-sdk-services/5.9.0-alpha.1/a6bb68c397fbddea0fc0507d36138daf112b0e72/mapbox-sdk-services-5.9.0-alpha.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

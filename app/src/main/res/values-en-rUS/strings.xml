@@ -1,0 +1,184 @@
+<resources>
+    <!-- General strings -->
+    <string name="app_name" translatable="false">Navigator</string>
+    <string name="access_token" translatable="false">sk.eyJ1IjoicGFub3NnazEzIiwiYSI6ImNrd2Npb3lxYTF4cjgydnBhZ3NxemhlOGEifQ._DZTAOGHGwxv8IlEItJBBw</string>
+
+    <!-- Common strings -->
+    <string name="welcome">Welcome to Navigator!</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="pin">Recovery PIN</string>
+    <string name="empty_fields">Empty fields detected!</string>
+    <string name="invalid_email">Invalid email form detected!\nCorrect email form: example@hotmail.com</string>
+    <string name="invalid_pass">Invalid password form detected!\nPassword must have minimum 7 and maximum 14 characters.</string>
+    <string name="pass_match">Password fields must have the same password!</string>
+    <string name="invalid_pin">Invalid PIN detected!\nRecovery PIN must have only 4 digits.</string>
+    <string name="cancel">Cancel</string>
+    <string name="back">Back</string>
+
+    <!-- SignIn java file -->
+    <string name="forgot_password">Forgot you password?</string>
+    <string name="password_title">Password recovery</string>
+    <string name="cancel_password_confirm">Password recovery has been cancelled</string>
+    <string name="password_recovery_fail">Password recovery failed!</string>
+    <string name="successful_login">Login successful!</string>
+    <string name="login_error">Something went wrong...</string>
+    <string name="wrong_password">Wrong password</string>
+    <string name="wrong_pin">Wrong recovery PIN</string>
+    <string name="wrong_credentials">Login failed due to wrong credentials</string>
+    <string name="connection_error">Connection error</string>
+    <string name="max_attempts_error">You have reached the maximum number of attempts.\nTry again later</string>
+
+    <!-- SignIn java file alert dialog -->
+    <string name="successful_recovery">Password changed successfully!</string>
+    <string name="email_not_found">Email not found!</string>
+
+    <!-- SignIn java file plate alert dialog -->
+    <string name="select_plate">Select one of your vehicles to continue</string>
+    <string name="null_select_plate">You did not select any vehicle!</string>
+
+    <!-- SignIn xml file -->
+    <string name="login_title">Login</string>
+    <string name="attempts">Attempts left:</string>
+    <string name="login_button">LOGIN</string>
+    <string name="register_hint">Not a member?</string>
+    <string name="register_button">Sign up now!</string>
+    <string name="show_pass">Show password</string>
+
+    <!-- forgot_pass xml file -->
+    <string name="new_password">New password</string>
+
+    <!-- Register java file -->
+    <string name="invalid_first_name">Invalid first name detected!</string>
+    <string name="invalid_last_name">Invalid last name detected!</string>
+    <string name="invalid_vehicle_plate">Invalid vehicle plate detected!\nCorrect plate form: AAA-1234</string>
+    <string name="email_in_use">User with this email already exists!</string>
+    <string name="plate_in_use">User with this license plate already exists!</string>
+
+    <!-- Register xml file -->
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="vehicle_plate">Vehicle plate</string>
+    <string name="next_button">NEXT</string>
+    <string name="cancel_button">CANCEL</string>
+
+    <!-- Vehicle java file -->
+    <string name="invalid_manufactor">Invalid manufactor field detected!</string>
+    <string name="invalid_model">Invalid model field detected!</string>
+    <string name="invalid_color">Invalid color detected!</string>
+    <string name="invalid_cc">Invalid CC detected!</string>
+    <string name="invalid_hp">Invalid horse power detected!</string>
+    <string name="successful_registration">User has been successfully registered!</string>
+    <string name="empty_date">Construction date is empty!</string>
+
+    <!-- Vehicle xml file -->
+    <string name="cancelling">Cancelling...</string>
+    <string name="manufactor">Manufactor:</string>
+    <string name="model">Model:</string>
+    <string name="category">Category:</string>
+    <string-array name="list">
+        <item>Car</item>
+        <item>Bus</item>
+        <item>Motorcycle</item>
+        <item>Scooter</item>
+        <item>Taxi</item>
+        <item>Tractor</item>
+        <item>Truck</item>
+        <item>Van</item>
+    </string-array>
+    <string name="color">Color:</string>
+    <string name="cc">CC:</string>
+    <string name="hp">Horse power:</string>
+    <string name="year">Year:</string>
+    <string name="date">Day/Month/Year</string>
+    <string name="register_final_button">REGISTER</string>
+
+    <!-- User java file -->
+    <string name="searching">Searching...</string>
+    <string name="tracking_not_completed">Location tracking has not completed.\nPlease wait.</string>
+    <string name="tracking_off">Location Tracking is off!\nPlease enable it.</string>
+    <string name="gps_off">GPS is off</string>
+    <string name="gps_on">GPS is on</string>
+    <string name="gps_enable">Press SETTINGS to enable GPS</string>
+    <string name="settings">SETTINGS</string>
+    <string name="caution">Caution!</string>
+    <string name="caution_info">Your GPS is off.\nWithout GPS we can not detect your device.</string>
+    <string name="location_tracked">Location is being tracked</string>
+    <string name="permission_error">Missing permissions!</string>
+    <string name="location_not_tracked">Location is NOT being tracked</string>
+    <string name="location_tracking_off">Location tracking is off</string>
+    <string name="delete_confirm">Are you sure you want to delete your account?\nThis action can not be undone!</string>
+    <string name="delete_done">Your account has been deleted successfully!</string>
+    <string name="empty_missions">Your mission list is empty</string>
+
+    <!-- User xml file -->
+    <string name="user">User:</string>
+    <string name="name_of_user">Connecting to database...</string>
+    <string name="latitude">Latitude:</string>
+    <string name="longitude">Longitude:</string>
+    <string name="accuracy">Accuracy:</string>
+    <string name="speed">Speed:</string>
+    <string name="address">Address:</string>
+    <string name="switch_tracking">Location Tracking</string>
+    <string name="tracking">Tracking:</string>
+    <string name="tracking_info">Location is NOT being tracked</string>
+    <string name="gps">GPS status:</string>
+    <string name="gps_status">GPS is off</string>
+    <string name="navigation_button">Navigation</string>
+
+    <!-- Threadwork java file -->
+    <string name="null_speed">Null soeed</string>
+    <string name="null_address">Null address</string>
+
+    <!-- menu_user xml file -->
+    <string name="my_account">My account</string>
+    <string name="my_vehicle">My vehicle</string>
+    <string name="missions">Missions</string>
+    <string name="delete_account">Delete Account</string>
+
+    <!-- my_profile xml file -->
+    <string name="usr_info">User information</string>
+    <string name="usr_name">Name:</string>
+    <string name="usr_sur_name">Surname:</string>
+    <string name="usr_plate">Vehicle plate:</string>
+    <string name="usr_email">Email:</string>
+    <string name="usr_regtime">Registration Date:</string>
+    <string name="change_pass">Change password</string>
+
+    <!-- MyProfile java file -->
+    <string name="password_change_fail">Password change failed!</string>
+    <string name="password_change_cancel">Password change has been canceled</string>
+
+    <!-- MyMissions java file -->
+    <string name="start">Start</string>
+    <string name="departure">Departure</string>
+    <string name="destination">Destination</string>
+
+    <!-- my_vehicle xml file java file -->
+    <string name="vhcl_info">Vehicle information</string>
+    <string name="vhcl_plate">Vehicle plate:</string>
+    <string name="vhcl_manufactor">Manufactor:</string>
+    <string name="vhcl_model">Model:</string>
+    <string name="vhcl_type">Type:</string>
+    <string name="vhcl_color">Color:</string>
+    <string name="vhcl_cc">CC:</string>
+    <string name="vhcl_hp">Horse power:</string>
+    <string name="vhcl_date">Date of construction:</string>
+    <string name="change_vehicle">Change vehicle</string>
+    <string name="vehicles_less_than_two">No other vehicles found</string>
+
+    <!-- Navigation java file -->
+    <string name="nvgt_title">Info</string>
+    <string name="nvgt_info">If you are unable to find an address from search you can tap the street on the map and we will find the address for you!</string>
+    <string name="nvgt_null_missions">Please select a destination</string>
+    <string name="nvgt_empty_list">Your list has no locations</string>
+    <string name="nvgt_remove_title">Select a location to remove</string>
+    <string name="nvgt_empty_info">Your list is empty!</string>
+    <string name="nvgt_no_response">Please check user and access token</string>
+    <string name="nvgt_no_route">No routes found</string>
+    <string name="nvgt_permission_info">Grant Location Permission</string>
+    <string name="nvgt_permission_error">Permission not granted</string>
+    <string name="nvgt_null_which">You did not select any location</string>
+
+</resources>

@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mapbox.mapboxsdk:mapbox-android-accounts:0.7.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/49b26be44f2d5ce8f5b5467e8994605d/transformed/jetified-mapbox-android-accounts-0.7.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/de6129e92fec8eb3746e62283cd0d33d/transformed/jetified-mapbox-android-accounts-0.7.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/65729387cbfca8e0d5696d1f7fd537b7/transformed/jetified-mapbox-android-accounts-0.7.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f2fc5ae82a1f345a18e055e4342e6bdd/transformed/jetified-mapbox-android-accounts-0.7.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/742e8ef23e23251a0fb4cd9b1c218a38/transformed/jetified-mapbox-android-accounts-0.7.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/dec0263d61f7b6f266c82af5e3a579e2/transformed/jetified-mapbox-android-accounts-0.7.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/bba7543840d4f90409f542675031448b/transformed/jetified-mapbox-android-accounts-0.7.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/caf6823e696d1d4abfa99de604e0ead4/transformed/jetified-mapbox-android-accounts-0.7.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/caf6823e696d1d4abfa99de604e0ead4/transformed/jetified-mapbox-android-accounts-0.7.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mapbox.mapboxsdk/mapbox-android-accounts/0.7.0/9054becb8be9c81ec9dd8fb4a7f2fae099fe233f/mapbox-android-accounts-0.7.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mapbox.mapboxsdk/mapbox-android-accounts/0.7.0/5463acdcbfed591a363f7047345ef82aaff3ebd0/mapbox-android-accounts-0.7.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

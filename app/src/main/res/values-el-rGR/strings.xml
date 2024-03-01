@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Common strings -->
+    <string name="welcome">Καλωσήρθατε στον Navigator!</string>
+    <string name="email">Διεύθυνση ηλεκτρονικού ταχυδρομίου</string>
+    <string name="password">Κωδικός πρόσβασης</string>
+    <string name="confirm_password">Επιβεβαίωση κωδικού</string>
+    <string name="pin">Αριθμός επαναφοράς</string>
+    <string name="empty_fields">Ανιχνεύθηκαν κενά πεδία!</string>
+    <string name="invalid_email">Ανιχνεύθηκε λάθος μορφή email!\nΤο email σας θα πρέπει να είναι της μορφής: example@hotmail.com</string>
+    <string name="invalid_pass">Ανιχνεύθηκε λάθος μορφή κωδικού πρόσβασης!\nΟ κωδικός πρόσβασης θα πρέπει να έχει το λιγότερο 7 και το πολύ 14 χαρακτήρες.</string>
+    <string name="pass_match">Τα πεδία του κωδικού θα πρέπει να έχουν τον ίδιο κωδικό!</string>
+    <string name="invalid_pin">Ανιχνεύθηκε λάθος μορφή αριθμού επαναφοράς!\nΟ αριθμός επαναφοράς θα πρέπει να αποτελείται από 4 αριθμούς.</string>
+    <string name="cancel">Ακύρωση</string>
+    <string name="back">Πίσω</string>
+
+    <!-- SignIn java file -->
+    <string name="forgot_password">Ξεχάσατε τον κωδικό σας;</string>
+    <string name="password_title">Ανάκτηση κωδικού πρόσβασης</string>
+    <string name="cancel_password_confirm">Η ανάκτηση κωδικού πρόσβασης ακυρώθηκε</string>
+    <string name="password_recovery_fail">Η ανάκτηση κωδικού πρόσβασης απέτυχε!</string>
+    <string name="successful_login">Είσοδος επιτυχής!</string>
+    <string name="login_error">Κάτι πήγε στραβά...</string>
+    <string name="wrong_password">Λανθασμένος κωδικός πρόσβασης</string>
+    <string name="wrong_pin">Λανθασμένος αριθμός επαναφοράς</string>
+    <string name="wrong_credentials">Τα στοιχεία που δώσατε είναι λάθος</string>
+    <string name="connection_error">Αδυναμία σύνδεσης</string>
+    <string name="max_attempts_error">Έχετε φτάσει τον μέγιστο αριθμό προσπαθειών.\nΔοκιμάστε ξανά αργότερα</string>
+
+    <!-- SignIn java file alert dialog -->
+    <string name="successful_recovery">Ο κωδικός άλλαξε με επιτυχία!</string>
+    <string name="email_not_found">Το email που δώσατε δεν βρέθηκε!</string>
+
+    <!-- SignIn java file plate alert dialog -->
+    <string name="select_plate">Επιλέξτε ένα από τα οχήματά σας για να συνεχίσετε</string>
+    <string name="null_select_plate">Δεν επιλέξατε κανένα όχημα!</string>
+
+    <!-- SignIn xml file -->
+    <string name="login_title">Είσοδος</string>
+    <string name="attempts">Προσπάθειες:</string>
+    <string name="login_button">ΕΙΣΟΔΟΣ</string>
+    <string name="register_hint">Δεν έχετε λογαριασμό;</string>
+    <string name="register_button">Εγγραφή τώρα!</string>
+    <string name="show_pass">Εμφάνιση κωδικού</string>
+
+    <!-- forgot_pass xml file -->
+    <string name="new_password">Νέος κωδικός πρόσβασης</string>
+
+    <!-- Register java file -->
+    <string name="invalid_first_name">Το όνομα του χρήστη είναι σε λάθος μορφή!</string>
+    <string name="invalid_last_name">Το επώνυμο του χρήστη είναι σε λάθος μορφή!</string>
+    <string name="invalid_vehicle_plate">Ο αριθμός πινακίδας του οχήματος είναι σε λάθος μορφή!\nΣωστή μορφή πινακίδων: AAA-1234</string>
+    <string name="email_in_use">Το email χρησιμοποιείται από άλλο χρήστη!</string>
+    <string name="plate_in_use">Ο αριθμός πινακίδας χρησιμοποιείται από άλλο χρήστη!</string>
+
+    <!-- Register xml file -->
+    <string name="first_name">Όνομα</string>
+    <string name="last_name">Επώνυμο</string>
+    <string name="vehicle_plate">Αριθμός πινακίδας οχήματος</string>
+    <string name="next_button">ΕΠΟΜΕΝΟ</string>
+    <string name="cancel_button">ΑΚΥΡΩΣΗ</string>
+
+    <!-- Vehicle java file -->
+    <string name="invalid_manufactor">Το πεδίο του κατασκευαστή είναι σε λάθος μορφή!</string>
+    <string name="invalid_model">Το πεδίο του μοντέλου είναι σε λάθος μορφή!</string>
+    <string name="invalid_color">Το πεδίο του χρώματος είναι σε λάθος μορφή!</string>
+    <string name="invalid_cc">Το πεδίο των κυβικών είναι σε λάθος μορφή!</string>
+    <string name="invalid_hp">Το πεδίο της ιπποδύναμης είναι σε λάθος μορφή!</string>
+    <string name="successful_registration">Η εγγραφή ολοκληρώθηκε με επιτυχία!</string>
+    <string name="empty_date">Η χρονολογία κατασκευής είναι κενή!</string>
+
+    <!-- Vehicle xml file -->
+    <string name="cancelling">Ακύρωση...</string>
+    <string name="manufactor">Κατασκευαστής:</string>
+    <string name="model">Μοντέλο:</string>
+    <string name="category">Κατηγορία:</string>
+    <string-array name="list">
+        <item>Αυτοκίνητο</item>
+        <item>Λεωφορείο</item>
+        <item>Μοτοσυκλέτα</item>
+        <item>Σκούτερ</item>
+        <item>Ταξί</item>
+        <item>Τρακτέρ</item>
+        <item>Φορτηγό</item>
+        <item>Βανάκι</item>
+    </string-array>
+    <string name="color">Χρώμα:</string>
+    <string name="cc">Κυβικά:</string>
+    <string name="hp">Ίπποι:</string>
+    <string name="year">Χρονολογία:</string>
+    <string name="date">Μέρα/Μήνας/Έτος</string>
+    <string name="register_final_button">ΕΓΓΡΑΦΗ</string>
+
+    <!-- User java file -->
+    <string name="searching">Αναζήτηση...</string>
+    <string name="tracking_not_completed">Ο εντοπισμός της συσκευής δεν έχει ολοκληρωθεί.\nΠαρακαλώ περιμένετε.</string>
+    <string name="tracking_off">Ο εντοπισμός της συσκευής είναι ανενεργός!\nΠαρακαλώ ενεργοποιήστε τον.</string>
+    <string name="gps_off">Το GPS είναι ανενεργό</string>
+    <string name="gps_on">Το GPS είναι ενεργό</string>
+    <string name="gps_enable">Πατήστε ΡΥΘΜΙΣΕΙΣ για να ενεργοποιήσετε το GPS</string>
+    <string name="settings">ΡΥΘΜΙΣΕΙΣ</string>
+    <string name="caution">Προσοχή!</string>
+    <string name="caution_info">Το GPS είναι ανενεργό.\Χωρίς το GPS ο εντοπισμός της συσκευής είναι αδύνατος.</string>
+    <string name="location_tracked">Ο εντοπισμός της συσκευής είναι ενεργοποιημένος</string>
+    <string name="permission_error">Εντοπίστηκε πρόβλημα δικαιωμάτων της εφαρμογής!</string>
+    <string name="location_not_tracked">Ο εντοπισμός της συσκευής ΔΕΝ είναι ενεργοποιημένος</string>
+    <string name="location_tracking_off">Ο εντοπισμός της συσκευής είναι ανενεργός</string>
+    <string name="delete_confirm">Είστε σίγουρος ότι θέλετε να διαγράψετε τον λογαριασμό σας;\nΑυτή η ενέργεια δεν μπορεί να αναιρεθεί!</string>
+    <string name="delete_done">Ο λογαριασμός διαγράφθηκε με επιτυχία!</string>
+    <string name="empty_missions">Το ιστορικό δρομολογίων είναι άδειο</string>
+
+    <!-- User xml file -->
+    <string name="user">Χρήστης:</string>
+    <string name="name_of_user">Σύνδεση με την βάση δεδομένων...</string>
+    <string name="latitude">Γεω/κο πλάτος:</string>
+    <string name="longitude">Γεω/κο μήκος:</string>
+    <string name="accuracy">Ακρίβεια:</string>
+    <string name="speed">Ταχύτητα:</string>
+    <string name="address">Διεύθυνση:</string>
+    <string name="switch_tracking">Εντοπισμός συσκευής</string>
+    <string name="tracking">Κατάσταση:</string>
+    <string name="tracking_info">Ο εντοπισμός της συσκευής ΔΕΝ είναι ενεργοποιημένος</string>
+    <string name="gps">GPS:</string>
+    <string name="gps_status">Το GPS είναι ανενεργό</string>
+    <string name="navigation_button">ΠΛΟΗΓΗΣΗ</string>
+
+    <!-- Threadwork java file -->
+    <string name="null_speed">Δεν βρέθηκε ταχύτητα</string>
+    <string name="null_address">Δεν βρέθηκε διεύθυνση</string>
+
+    <!-- menu_user file -->
+    <string name="my_account">Ο λογαριασμός μου</string>
+    <string name="my_vehicle">Το όχημά μου</string>
+    <string name="missions">Δρομολόγια</string>
+    <string name="delete_account">Διαγραφή λογαριασμού</string>
+
+    <!-- my_profile xml file -->
+    <string name="usr_info">Πληροφορίες χρήστη</string>
+    <string name="usr_name">Όνομα:</string>
+    <string name="usr_sur_name">Επώνυμο:</string>
+    <string name="usr_plate">Αριθμός πινακίδας:</string>
+    <string name="usr_email">Email:</string>
+    <string name="usr_regtime">Ημερομηνία εγγραφής:</string>
+    <string name="change_pass">Αλλαγή κωδικού πρόσβασης</string>
+
+    <!-- MyProfile java file -->
+    <string name="password_change_fail">Η αλλαγή του κωδικού πρόσβασης απέτυχε!</string>
+    <string name="password_change_cancel">Η αλλαγή του κωδικού πρόσβασης ακυρώθηκε</string>
+
+    <!-- MyMissions java file -->
+    <string name="start">Έναρξη</string>
+    <string name="departure">Αφετηρία</string>
+    <string name="destination">Προορισμός</string>
+
+    <!-- my_vehicle xml file java file -->
+    <string name="vhcl_info">Πληροφορίες οχήματος</string>
+    <string name="vhcl_plate">Αριθμός πινακίδας:</string>
+    <string name="vhcl_manufactor">Κατασκευαστής:</string>
+    <string name="vhcl_model">Μοντέλο:</string>
+    <string name="vhcl_type">Τύπος:</string>
+    <string name="vhcl_color">Χρώμα:</string>
+    <string name="vhcl_cc">Κυβικά:</string>
+    <string name="vhcl_hp">Ίπποι:</string>
+    <string name="vhcl_date">Ημ/νια κατασκευής:</string>
+    <string name="change_vehicle">Αλλαγή οχήματος</string>
+    <string name="vehicles_less_than_two">Δεν βρέθηκαν άλλα οχήματα</string>
+
+    <!-- Navigation java file -->
+    <string name="nvgt_title">Ενημέρωση</string>
+    <string name="nvgt_info">Αν δεν μπορείτε να βρείτε την διεύθυνση της τοποθεσίας που επιθυμείτε μέσω αναζήτησης, μπορείτε να πατήσετε στην οθόνη τον συγκεκριμένο δρόμο και εμείς θα βρούμε την διεύθυνση για εσάς!</string>
+    <string name="nvgt_null_missions">Παρακαλώ επιλέξτε έναν προορισμό</string>
+    <string name="nvgt_empty_list">Δεν υπάρχουν τοποθεσίες στην λίστα</string>
+    <string name="nvgt_remove_title">Επιλέξτε μια διεύθυνση για διαγραφή</string>
+    <string name="nvgt_empty_info">Η λίστα σας είναι άδεια!</string>
+    <string name="nvgt_no_response">Αδυναμία λήψης δεδομένων</string>
+    <string name="nvgt_no_route">Δεν βρέθηκαν διαδρομές</string>
+    <string name="nvgt_permission_info">Παραχωρήστε δικαιώματα τοποθεσίας</string>
+    <string name="nvgt_permission_error">Η άδεια απορρίφθηκε</string>
+    <string name="nvgt_null_which">Δεν επιλέξατε καμία τοποθεσία</string>
+
+</resources>

@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mapbox.mapboxsdk:mapbox-android-directions:1.0.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/d6b0c069a7fd4e0c2ac38ea1daba8168/transformed/jetified-mapbox-android-directions-1.0.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d6b0c069a7fd4e0c2ac38ea1daba8168/transformed/jetified-mapbox-android-directions-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/d6b0c069a7fd4e0c2ac38ea1daba8168/transformed/jetified-mapbox-android-directions-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d6b0c069a7fd4e0c2ac38ea1daba8168/transformed/jetified-mapbox-android-directions-1.0.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mapbox.mapboxsdk/mapbox-android-directions/1.0.0/ddb55b61169a7e9c5de001fb0544499e5750c736/mapbox-android-directions-1.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mapbox.mapboxsdk/mapbox-android-directions/1.0.0/17b49333d37776b251533830ecebcd28cba04228/mapbox-android-directions-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

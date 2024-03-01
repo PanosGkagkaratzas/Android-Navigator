@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mapbox.mapboxsdk:mapbox-android-core:4.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/34311d726c41bca36f9c014055d407e8/transformed/jetified-mapbox-android-core-4.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6264e7e44956db6bdf12f1f329362135/transformed/jetified-mapbox-android-core-4.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/9d1216707e5df8f2d3f9b3202759ed6e/transformed/jetified-mapbox-android-core-4.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f03ef94390ae7957df59e95f64b055bf/transformed/jetified-mapbox-android-core-4.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ca71c1b3cc9c8108d53c12f311f31f63/transformed/jetified-mapbox-android-core-4.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e53045c03f8a26433c241a307e8dce4b/transformed/jetified-mapbox-android-core-4.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/3615a7a74681184726237c5fac6a60f3/transformed/jetified-mapbox-android-core-4.0.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/3548506df7da53fc01ae6ae465c3c83c/transformed/jetified-mapbox-android-core-4.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/3548506df7da53fc01ae6ae465c3c83c/transformed/jetified-mapbox-android-core-4.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mapbox.mapboxsdk/mapbox-android-core/4.0.0/c7c326f674339f6a3dee534c930781f266357455/mapbox-android-core-4.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mapbox.mapboxsdk/mapbox-android-core/4.0.0/b02056181e95236037d81934d71c5faee08839a6/mapbox-android-core-4.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

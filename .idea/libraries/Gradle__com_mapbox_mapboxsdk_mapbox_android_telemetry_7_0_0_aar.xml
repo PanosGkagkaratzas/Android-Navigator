@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mapbox.mapboxsdk:mapbox-android-telemetry:7.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b432b40582630aae1397b47f4739eca1/transformed/jetified-mapbox-android-telemetry-7.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b91e840a1477b2f415c09733c842c450/transformed/jetified-mapbox-android-telemetry-7.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/562963cebd14558f4a3686e22e926603/transformed/jetified-mapbox-android-telemetry-7.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6f9d3363b5f0f8f896aeb88ce8109abd/transformed/jetified-mapbox-android-telemetry-7.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e80648c2a7260a45ca8441fa14864fe6/transformed/jetified-mapbox-android-telemetry-7.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/66c3936209b9a47c1536528824f7a833/transformed/jetified-mapbox-android-telemetry-7.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/52223a86b9b4cc738242803b78bed574/transformed/jetified-mapbox-android-telemetry-7.0.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/ab1b6e0a019a0fa88dc0cdf04b247151/transformed/jetified-mapbox-android-telemetry-7.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ab1b6e0a019a0fa88dc0cdf04b247151/transformed/jetified-mapbox-android-telemetry-7.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mapbox.mapboxsdk/mapbox-android-telemetry/7.0.0/c0c9d99e7de4a990ce8fc3afd023976d5b9e539b/mapbox-android-telemetry-7.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mapbox.mapboxsdk/mapbox-android-telemetry/7.0.0/9cb627215f7fb9a1025ebd580d20b6e24890dd66/mapbox-android-telemetry-7.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
