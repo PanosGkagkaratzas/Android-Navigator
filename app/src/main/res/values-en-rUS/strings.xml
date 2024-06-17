@@ -1,7 +1,7 @@
 <resources>
     <!-- General strings -->
     <string name="app_name" translatable="false">Navigator</string>
-    <string name="access_token" translatable="false">sk.eyJ1IjoicGFub3NnazEzIiwiYSI6ImNrd2Npb3lxYTF4cjgydnBhZ3NxemhlOGEifQ._DZTAOGHGwxv8IlEItJBBw</string>
+    <string name="access_token" translatable="false">...</string>
 
     <!-- Common strings -->
     <string name="welcome">Welcome to Navigator!</string>
